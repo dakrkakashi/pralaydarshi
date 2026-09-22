@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+@font-face { font-family: 'Ananda Neptouch 2'; src: local('Ananda Neptouch 2'); font-style: normal; font-weight: 700; font-display: swap; }
+
+:root { font-family: 'Manrope', system-ui, sans-serif; color: #122235; background: #f5f8f8; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+.brand-name { font-family: 'Ananda Neptouch 2', Georgia, serif; font-weight: 700; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+a { color: inherit; text-decoration: none; }
